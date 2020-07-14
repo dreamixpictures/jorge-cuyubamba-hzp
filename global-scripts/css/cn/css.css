@@ -1,0 +1,107 @@
+/* CSS Document */
+html{ overflow-x:hidden; overflow-y:scroll;}
+body,div,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,legend,button,input,textarea,th,td{margin:0;padding:0;}
+body{ font:12px/1.5 tahoma,arial,\5b8b\4f53,sans-serif; line-height:150%;}
+.clear{ overflow:hidden; clear:both;}
+img{ border:none;}
+li{ list-style:none;}
+.fl{ float:left;}
+.fr{ float:right;}
+.tel{ text-align:left;}
+.tec{ text-align:center;}
+.ter{ text-align:right;}
+a:link { font-family: verdana,arial,helvetica,sans-serif; color: #9e0017; }
+a:visited { font-family: verdana,arial,helvetica,sans-serif; color: #9e0017; }
+a:active { font-family: verdana,arial,helvetica,sans-serif; color: #9e0017; }
+.whitelink a:link{ text-decoration:none; color:#fff;}
+.whitelink a:visited{ text-decoration:none; color:#fff;}
+.whitelink a:hover{ text-decoration:underline; color:#fff;}
+.black a:link{ text-decoration:none; color:#333333; line-height:20px; font-size:12px}
+.black a:visited{ text-decoration:none; color:#33333;line-height:20px; font-size:12px}
+.black a:hover{ text-decoration:underline; color:33333;line-height:20px; font-size:12px}
+.black a:active{ text-decoration:none; color:#33333;line-height:20px; font-size:12px}
+.sec_l_md a{ text-decoration:none;}
+.sec_l_md a:hover{ text-decoration:underline;}
+#page{ width:1000px; margin:0 auto; height:100%;}
+.ml150px{ margin-left:150px;}
+.ml40px{ margin-left:40px;}
+.ml60px{ margin-left:60px; display:inline;}
+.mr20px{ margin-right:20px;}
+.ml10px{ margin-left:10px;}
+.mt30px{ margin-top:30px;}
+.w525px{ width:525px;}
+.w131px{ width:106px;}
+.w200px{ width:228px;}
+.main{ height:100%; clear:both; overflow:hidden;}
+.box{ clear:both;}
+/**************************ͷ͵ײʽ**************************************/
+.quick_link a{ margin:0px 20px;}
+.top_bg{ background-color:#f0eeef; height:100%; overflow:hidden; clear:both;}
+.menu a,.foot_nav a,.sec_menu a { margin:0px 15px;}
+.quick_link,.chinese s,.english s,.menu,.menu a s,.footer,.cln_th,.r_th,.hcp,.so_th,.so,.grid_line,.sec_menu,.sec_menu a s,.l_menu_tag,.sec_grid_line,.tab_na_bg,.sb_btn{ background:url(../../images/cn/index_bg.jpg) no-repeat;}
+.quick_link{width:1000px; height:34px; line-height:34px;}
+.chinese s{ width:23px; height:17px; position:absolute; background-position:-1px -131px; margin-left:-24px; cursor:pointer; font-size:0px; margin-top:8px;*margin-top:2px;_margin-top:-1px;}
+.english s{ width:22px; height:17px; position:absolute; background-position:-26px -131px; margin-left:-24px; cursor:pointer; font-size:0px; margin-top:8px;*margin-top:2px;_margin-top:-1px;}
+.menu{ width:1000px; height:35px; background-position:0px -35px; line-height:35px;}
+.menu a s,.sec_menu a s{ width:9px; height:9px; position:absolute; background-position:-55px -136px; margin-left:-12px; cursor:pointer; font-size:0px; margin-top:13px;*margin-top:5px;_margin-top:3px;}
+.footer{ width:1000px; height:59px; background-position:0px -70px; border-top:1px #c4c4c4 solid;}
+.cln_th{ width:306px; height:56px; background-position:-260px -294px;}
+.r_th{ width:692px; height:56px; background-position:0px -150px; background-repeat:repeat-x;}
+.hcp{ width:306px; height:56px; background-position:-1px -293px;}
+.so_th{ width:692px; height:56px; background-position:0px -210px; background-repeat:repeat-x; overflow:hidden;}
+.so{ width:190px; height:55px; background-position:-585px -292px; margin-top:1px;}
+.grid_line{ width:690px; height:20px; background-position:0px -272px; background-repeat:repeat-x;}
+.sec_menu{ width:1000px; height:35px; background-position:0px -352px; line-height:35px;}
+.l_menu_tag{ width:204px; height:56px; background-position:-781px -292px;}
+.sec_grid_line{ width:795px; height:20px; background-position:0px -272px; background-repeat:repeat-x;}
+.tab_na_bg{ width:189px; height:29px; background-position:0px -394px; line-height:29px;}
+.sb_btn{ width:78px; height:25px; background-position:-202px -395px; border:none; color:#9e0016; cursor:pointer;}
+/**************************ʽ**************************************/
+.left{ width:306px; float:left;}
+.right{ width:693px; float:right; border-left:1px #a2a2a2 solid;}
+.cln_md dl{ width:270px; margin:10px auto; padding-left:20px;}
+.cln_md dl dd{ margin-top:10px;}
+.r_md{ width:650px; margin:0 auto; height:100%; overflow:hidden; clear:both;}
+.sec_left{ width:204px; float:left;}
+.sec_right{ width:794px; float:right;border-left:1px #a2a2a2 solid; min-height:800px; _height:800px; overflow:  
+overflow-x:hidden;
+
+
+}
+.sec_l_md dl{ margin-left:15px;}
+.sec_l_md dl dd ul{ margin-left:10px;}
+.sec_l_md dl dd ul li,.news_list ul li{ margin-top:5px;}
+.sec_r_box{ width:765px; margin:0 auto; margin-top:15px; height:100%; clear:both;}
+.cad li{ width:180px; float:left; display:inline; margin-top:30px; margin-right:20px;}
+.tab_na_bg strong{ margin-right:15px; display:inline;}
+.job_offers_list dl{ margin-top:30px;}
+.manager_list dl{ margin-bottom:30px;}
+.pro_list li{ width:200px; float:left; display:inline; margin-right:30px; margin-top:20px;}
+.pro_list li img{ border:1px #ccc solid;}
+  
+
+#nav{ width:650px; float:right; height:30px; overflow:hidden}
+#nav ul li{ float:left; width:auto}
+ul,li{ margin:0px; padding:0px;}
+ #nav ul li
+{
+ text-align:center;
+ float: left;
+ display: inline;
+ line-height:30px;
+ margin-right:10px;
+ position:relative; 
+}
+ #nav div.list
+{ 
+ display:none;
+ font-size: 12px;
+ text-align: left;
+ padding: 4px;
+ width:auto;
+ font-weight: normal;
+ background-color:#9D0015;
+ position:absolute;
+ top:30px; left:0px;
+ }
+ #nav ul li.menu1 div.list{ display:block;}
